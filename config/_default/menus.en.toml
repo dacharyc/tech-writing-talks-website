@@ -28,7 +28,7 @@ hasChildren = true
   [[main]]
   parent = "Browse"
   weight = 1
-  url = "author/"
+  url = "speaker/"
   name = "Speakers"
   
   [[main]]
@@ -37,7 +37,7 @@ hasChildren = true
   url = "tags/"
   name = "Tags"
   
-  [[main]]
+  #[[main]]
   # parent = "Pages"
   # weight = 3
   # url = "tags/photography/"
@@ -49,13 +49,13 @@ hasChildren = true
   url = "categories/"
   name = "Categories"
   
-  [[main]]
+  #[[main]]
   # parent = "Pages"
   # weight = 5
   # url = "categories/lifestyle/"
   # name = "Category Single"
   
-  [[main]]
+  #[[main]]
   # parent = "Pages"
   # weight = 6
   # url = "elements/"
@@ -97,7 +97,7 @@ name = "About"
 
 [[footer]]
 weight = 2
-url = "author/"
+url = "speaker/"
 name = "Speakers"
 
 [[footer]]
