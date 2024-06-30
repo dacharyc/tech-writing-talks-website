@@ -1,138 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bookworm - HUGO Blog Theme</title>
-    <link>http://localhost:1313/bookworm/site/</link>
-    <description>Recent content on Bookworm - HUGO Blog Theme</description>
+    <title>Tech Writing Talks</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Tech Writing Talks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Feb 2021 16:56:47 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/bookworm/site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2024 11:33:57 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to make toys from old Olarpaper</title>
-      <link>http://localhost:1313/bookworm/site/blog/post-8/</link>
-      <pubDate>Fri, 05 Feb 2021 16:56:47 +0600</pubDate>
-      <guid>http://localhost:1313/bookworm/site/blog/post-8/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+      <title>Docs Code Examples: Test, Extract, Transclude</title>
+      <link>http://localhost:1313/blog/docs-code-examples/</link>
+      <pubDate>Sun, 30 Jun 2024 11:33:57 +0600</pubDate>
+      <guid>http://localhost:1313/blog/docs-code-examples/</guid>
+      <description>If you write documentation for a product that is, itself, code - think SDK, API, or CLI - code is an important part of your documentation!</description>
     </item>
     <item>
-      <title>What you need to know about Photography</title>
-      <link>http://localhost:1313/bookworm/site/blog/post-7/</link>
-      <pubDate>Thu, 04 Feb 2021 16:56:47 +0600</pubDate>
-      <guid>http://localhost:1313/bookworm/site/blog/post-7/</guid>
-      <description>Photography is an invaluable medium that allows us to capture the incandescent beauty of the outside world, something many of us haven’t seen in&amp;hellip; well, a hot minute.</description>
-    </item>
-    <item>
-      <title>Become a morning person with the help of this a alarm clock</title>
-      <link>http://localhost:1313/bookworm/site/blog/post-6/</link>
-      <pubDate>Wed, 03 Feb 2021 16:56:47 +0600</pubDate>
-      <guid>http://localhost:1313/bookworm/site/blog/post-6/</guid>
-      <description>Almost every day for the past nine or so months has felt like March 13, and that can sometimes make it difficult to want to wake up for the day ahead of you.</description>
-    </item>
-    <item>
-      <title>Why a balloon is a flexible bag that can be inflated with a gas</title>
-      <link>http://localhost:1313/bookworm/site/blog/post-5/</link>
-      <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
-      <guid>http://localhost:1313/bookworm/site/blog/post-5/</guid>
-      <description>A balloon is a flexible bag that can be inflated with a gas, such as helium, hydrogen, nitrous oxide, oxygen, and air.</description>
-    </item>
-    <item>
-      <title>Henara Colii</title>
-      <link>http://localhost:1313/bookworm/site/author/henara-colii/</link>
-      <pubDate>Tue, 02 Feb 2021 10:20:19 +0600</pubDate>
-      <guid>http://localhost:1313/bookworm/site/author/henara-colii/</guid>
-      <description>Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.</description>
-    </item>
-    <item>
-      <title>Lubana Era</title>
-      <link>http://localhost:1313/bookworm/site/author/lubana-era/</link>
-      <pubDate>Tue, 26 Jan 2021 10:14:19 +0600</pubDate>
-      <guid>http://localhost:1313/bookworm/site/author/lubana-era/</guid>
-      <description>Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.</description>
-    </item>
-    <item>
-      <title>Banana is the best meal packages in the UK spark outrage online</title>
-      <link>http://localhost:1313/bookworm/site/blog/post-4/</link>
-      <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
-      <guid>http://localhost:1313/bookworm/site/blog/post-4/</guid>
-      <description>A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</description>
-    </item>
-    <item>
-      <title>DIY Paper Diamond Tutorial with HUNGRY HEART</title>
-      <link>http://localhost:1313/bookworm/site/blog/post-3/</link>
-      <pubDate>Mon, 25 Jan 2021 11:35:57 +0600</pubDate>
-      <guid>http://localhost:1313/bookworm/site/blog/post-3/</guid>
-      <description>A paper diamond is such a pretty way to bring a flair of stylish luxury to your home.</description>
-    </item>
-    <item>
-      <title>Become a morning person with the help of this a alarm clock</title>
-      <link>http://localhost:1313/bookworm/site/blog/post-2/</link>
-      <pubDate>Mon, 25 Jan 2021 11:33:57 +0600</pubDate>
-      <guid>http://localhost:1313/bookworm/site/blog/post-2/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem.</description>
-    </item>
-    <item>
-      <title>What you need to know about Photography</title>
-      <link>http://localhost:1313/bookworm/site/blog/post-1/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      <guid>http://localhost:1313/bookworm/site/blog/post-1/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem.</description>
+      <title>Dachary Carey</title>
+      <link>http://localhost:1313/author/dachary-carey/</link>
+      <pubDate>Sun, 30 Jun 2024 10:20:19 +0600</pubDate>
+      <guid>http://localhost:1313/author/dachary-carey/</guid>
+      <description>Dachary is a Senior Programmer Writer on the Developer Docs team at MongoDB.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/bookworm/site/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/about/</guid>
-      <description>A content writer with over 12 years experience working across brand identity, publishing and digital products.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Technical writing is an extremely wide umbrella. Technical writing conferences are few and far between, and they only have so much time for a limited number of talks.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/bookworm/site/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>Elements</title>
-      <link>http://localhost:1313/bookworm/site/elements/</link>
+      <link>http://localhost:1313/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/elements/</guid>
+      <guid>http://localhost:1313/elements/</guid>
       <description>Table Of Contents Heading 2 Heading 3 Emphasis Link Paragraph Ordered List Unordered List Notice Tab Collapse Code and Syntax Highlighting Blockquote Inline HTML Codepen Tables Image Gallery Youtube video Custom video Here is an example of headings.</description>
     </item>
     <item>
       <title>Homepage Grid</title>
-      <link>http://localhost:1313/bookworm/site/homepage/grid/</link>
+      <link>http://localhost:1313/homepage/grid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/homepage/grid/</guid>
+      <guid>http://localhost:1313/homepage/grid/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage List</title>
-      <link>http://localhost:1313/bookworm/site/homepage/list/</link>
+      <link>http://localhost:1313/homepage/list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/homepage/list/</guid>
+      <guid>http://localhost:1313/homepage/list/</guid>
       <description></description>
     </item>
     <item>
       <title>No Search Found</title>
-      <link>http://localhost:1313/bookworm/site/404/</link>
+      <link>http://localhost:1313/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/404/</guid>
+      <guid>http://localhost:1313/404/</guid>
       <description></description>
     </item>
     <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/bookworm/site/privacy/</link>
+      <title>Pitch a talk</title>
+      <link>http://localhost:1313/pitch-talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/privacy/</guid>
-      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <guid>http://localhost:1313/pitch-talk/</guid>
+      <description>The Pitch Tech Writing Talks would love to get your pitches!</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>Analytics Tech Writing Talks is organized by an individual who is against invasive analytics tracking.</description>
+    </item>
+    <item>
+      <title>Sponsor</title>
+      <link>http://localhost:1313/sponsor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sponsor/</guid>
+      <description>Tech Writing Talks is a new initiative that aims to engage a diverse audience, including:</description>
     </item>
     <item>
       <title>Terms And Conditions</title>
-      <link>http://localhost:1313/bookworm/site/terms-conditions/</link>
+      <link>http://localhost:1313/terms-conditions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/terms-conditions/</guid>
-      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <guid>http://localhost:1313/terms-conditions/</guid>
+      <description>Responsibility of Contributors If you pitch a talk to Tech Writing Talks, you are responsible for guaranteeing that you own the copyright to the content of your talk.</description>
     </item>
   </channel>
 </rss>

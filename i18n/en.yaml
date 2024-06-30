@@ -29,7 +29,7 @@
   translation: Our Most Recent Post
 
 - id: written_by
-  translation: Written By
+  translation: Presented By
 
 - id: read_more
   translation: Read More
@@ -59,10 +59,10 @@
   translation: Designed & Developed By
 
 - id: search_input_placeholder
-  translation: Search Bookworm..
+  translation: Search Tech Writing Talks...
 
 - id: no_results_for
   translation: No results for
 
 - id: empty_search_results_placeholder
-  translation: Type something to search..
+  translation: Type something to search...

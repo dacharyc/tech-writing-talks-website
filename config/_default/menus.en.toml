@@ -18,7 +18,49 @@ hasChildren = true
   weight = 2
   url = "homepage/grid/"
   name = "Grid layout"
+
+[[main]]
+weight = 2
+url = "#"
+name = "Browse"
+hasChildren = true
+
+  [[main]]
+  parent = "Browse"
+  weight = 1
+  url = "author/"
+  name = "Speakers"
   
+  [[main]]
+  parent = "Browse"
+  weight = 2
+  url = "tags/"
+  name = "Tags"
+  
+  [[main]]
+  # parent = "Pages"
+  # weight = 3
+  # url = "tags/photography/"
+  # name = "Tag Single"
+  
+  [[main]]
+  parent = "Browse"
+  weight = 4
+  url = "categories/"
+  name = "Categories"
+  
+  [[main]]
+  # parent = "Pages"
+  # weight = 5
+  # url = "categories/lifestyle/"
+  # name = "Category Single"
+  
+  [[main]]
+  # parent = "Pages"
+  # weight = 6
+  # url = "elements/"
+  # name = "Elements"
+
 [[main]]
 weight = 3
 url = "about/"
@@ -32,44 +74,20 @@ name = "Contact"
 [[main]]
 weight = 5
 url = "#"
-name = "Pages"
+name = "Participate"
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
+  parent = "Participate"
   weight = 1
-  url = "author/"
-  name = "Author"
+  url = "pitch-talk/"
+  name = "Pitch a Talk"
   
   [[main]]
-  parent = "Pages"
+  parent = "Participate"
   weight = 2
-  url = "tags/"
-  name = "Tags"
-  
-  [[main]]
-  parent = "Pages"
-  weight = 3
-  url = "tags/photography/"
-  name = "Tag Single"
-  
-  [[main]]
-  parent = "Pages"
-  weight = 4
-  url = "categories/"
-  name = "Category"
-  
-  [[main]]
-  parent = "Pages"
-  weight = 5
-  url = "categories/lifestyle/"
-  name = "Category Single"
-  
-  [[main]]
-  parent = "Pages"
-  weight = 6
-  url = "elements/"
-  name = "Elements"
+  url = "sponsor/"
+  name = "Sponsor"
 
 ############################# Footer Menu ########################
 [[footer]]
@@ -80,7 +98,7 @@ name = "About"
 [[footer]]
 weight = 2
 url = "author/"
-name = "Authors"
+name = "Speakers"
 
 [[footer]]
 weight = 3

@@ -9,7 +9,7 @@ logo_width = "208px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Bookworm"
+logo_text = "Tech Writing Talks"
 # purgeCSS
 purge_css = true
 
@@ -27,7 +27,7 @@ image_gallery = true
 
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "Copyright Tech Writing Talks"
 
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
@@ -35,7 +35,7 @@ google_tag_manager = "" # example: G-XXXXXXXXXX
 custom_script= ""
 
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xwpekppz" # contact form works with https://formspree.io
 
 # Preloader
 [preloader]
@@ -64,7 +64,7 @@ access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1Nmpx
 
 # Subscription
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -95,8 +95,8 @@ enableQQ = false # https://valine.js.org/en/configuration.html#enableQQ
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
-description = "This is meta description"
-author = "Themefisher"
+description = "Tech Writing Talks presents fun or useful talks for folks curious about, adjacent to, or working as technical writers."
+author = "Tech Writing Talks"
 image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
@@ -129,28 +129,23 @@ facebook = "" # Your verification code
 
 # cookies
 [cookies]
-enable = true
+enable = false
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
 
 ############################# social site ########################
 [[social]]
-title = "facebook"
-icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+title = "YouTube"
+icon = "fa-brands fa-youtube"  # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.youtube.com/@TechWritingTalks"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.linkedin.com/company/tech-writing-talks/about/"
+
+[[social]]
+title = "Fediverse"
+icon = "fa-brands fa-mastodon" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://corporaterunaways.social/@techwritingtalks"

@@ -5,22 +5,26 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-md-8">
-        <form action="{{.}}">
+        <form action="{{.}}" method="POST">
           <div class="mb-4">
             <label for="name" class="form-label">{{ i18n "name" }}</label>
-            <input type="text" class="form-control rounded" id="name" placeholder="Alex Smith" required>
+            <input type="text" name="Sender name" class="form-control rounded" id="name" placeholder="Julie Evans" required>
           </div>
           <div class="mb-4">
             <label for="email" class="form-label">{{ i18n "email" }}</label>
-            <input type="email" class="form-control rounded" id="email" placeholder="hello@bookworm.com" required>
+            <input type="email" name="Sender email" class="form-control rounded" id="email" placeholder="my.email@mycompany.com" required>
           </div>
           <div class="mb-4">
             <label for="subject" class="form-label">{{ i18n "subject" }}</label>
-            <input type="text" class="form-control rounded" id="subject" placeholder="Reasons for Contact" required>
+            <select id="subject" name="Subject" class="form-control rounded" required>
+              <option selected>I have a general question about Tech Writing Talks</option>
+              <option>I'd like to pitch a talk</option>
+              <option>I'd like to sponsor Tech Writing Talks</option>
+            </select>
           </div>
           <div class="mb-4">
             <label for="message" class="form-label">{{ i18n "message"}}</label>
-            <textarea class="form-control rounded" id="message" rows="4" placeholder="Your Message" required></textarea>
+            <textarea name="Message" class="form-control rounded" id="message" rows="4" placeholder="Q, pitch, or sponsor!" required></textarea>
           </div>
 
           <button type="submit" class="btn btn-primary rounded" aria-label="Send Message">{{ i18n "send_message"}}</button>

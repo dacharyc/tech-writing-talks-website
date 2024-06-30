@@ -1,74 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Bookworm - HUGO Blog Theme</title>
-    <link>http://localhost:1313/bookworm/site/tags/</link>
-    <description>Recent content in Tags on Bookworm - HUGO Blog Theme</description>
+    <title>Tags on Tech Writing Talks</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Tech Writing Talks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Feb 2021 16:56:47 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/bookworm/site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2024 11:33:57 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Diy</title>
-      <link>http://localhost:1313/bookworm/site/tags/diy/</link>
+      <title>15-20 Minutes</title>
+      <link>http://localhost:1313/tags/15-20-minutes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/tags/diy/</guid>
+      <guid>http://localhost:1313/tags/15-20-minutes/</guid>
       <description></description>
     </item>
     <item>
-      <title>Toy</title>
-      <link>http://localhost:1313/bookworm/site/tags/toy/</link>
+      <title>Curious</title>
+      <link>http://localhost:1313/tags/curious/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/tags/toy/</guid>
+      <guid>http://localhost:1313/tags/curious/</guid>
       <description></description>
     </item>
     <item>
-      <title>Photography</title>
-      <link>http://localhost:1313/bookworm/site/tags/photography/</link>
+      <title>Junior</title>
+      <link>http://localhost:1313/tags/junior/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/tags/photography/</guid>
+      <guid>http://localhost:1313/tags/junior/</guid>
       <description></description>
     </item>
     <item>
-      <title>Alarm</title>
-      <link>http://localhost:1313/bookworm/site/tags/alarm/</link>
+      <title>Lead</title>
+      <link>http://localhost:1313/tags/lead/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/tags/alarm/</guid>
+      <guid>http://localhost:1313/tags/lead/</guid>
       <description></description>
     </item>
     <item>
-      <title>Clock</title>
-      <link>http://localhost:1313/bookworm/site/tags/clock/</link>
+      <title>Senior</title>
+      <link>http://localhost:1313/tags/senior/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/tags/clock/</guid>
+      <guid>http://localhost:1313/tags/senior/</guid>
       <description></description>
     </item>
     <item>
-      <title>Balloon</title>
-      <link>http://localhost:1313/bookworm/site/tags/balloon/</link>
+      <title>Staff</title>
+      <link>http://localhost:1313/tags/staff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/tags/balloon/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gas</title>
-      <link>http://localhost:1313/bookworm/site/tags/gas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/tags/gas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Food</title>
-      <link>http://localhost:1313/bookworm/site/tags/food/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/tags/food/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gold</title>
-      <link>http://localhost:1313/bookworm/site/tags/gold/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookworm/site/tags/gold/</guid>
+      <guid>http://localhost:1313/tags/staff/</guid>
       <description></description>
     </item>
   </channel>

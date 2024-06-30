@@ -1,18 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:1313/bookworm/site/en/sitemap.xml</loc>
-    
-      <lastmod>2021-02-05T16:56:47+06:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/bookworm/site/fr/sitemap.xml</loc>
-    
-      <lastmod>2021-02-05T16:56:47+06:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/tags/15-20-minutes/</loc>
+    <lastmod>2024-06-30T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-06-30T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-06-30T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/code/</loc>
+    <lastmod>2024-06-30T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/curious/</loc>
+    <lastmod>2024-06-30T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/docs-code-examples/</loc>
+    <lastmod>2024-06-30T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/junior/</loc>
+    <lastmod>2024-06-30T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lead/</loc>
+    <lastmod>2024-06-30T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/senior/</loc>
+    <lastmod>2024-06-30T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/staff/</loc>
+    <lastmod>2024-06-30T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-30T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-30T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/testing/</loc>
+    <lastmod>2024-06-30T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/dachary-carey/</loc>
+    <lastmod>2024-06-30T10:20:19+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/</loc>
+    <lastmod>2021-01-26T10:13:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/elements/</loc>
+  </url><url>
+    <loc>http://localhost:1313/homepage/grid/</loc>
+  </url><url>
+    <loc>http://localhost:1313/homepage/list/</loc>
+  </url><url>
+    <loc>http://localhost:1313/homepage/</loc>
+  </url><url>
+    <loc>http://localhost:1313/404/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pitch-talk/</loc>
+  </url><url>
+    <loc>http://localhost:1313/privacy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sponsor/</loc>
+  </url><url>
+    <loc>http://localhost:1313/terms-conditions/</loc>
+  </url>
+</urlset>

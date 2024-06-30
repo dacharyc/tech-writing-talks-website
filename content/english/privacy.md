@@ -1,30 +1,33 @@
 ---
 title: "Privacy"
-description: "this is meta description"
+description: "Privacy Policy"
 draft: false
 ---
 
+## Analytics
 
-#### Responsibility of Contributors
+Tech Writing Talks is organized by an individual who is against invasive analytics tracking. We do not engage in any analytics tracking on this website, and do not want any of your private information.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+## Third Parties
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+If you send an email through the contact form, information you send passes through our form provider, [Formspree](https://formspree.io). Consult their policies and terms for any data collection or retention policies they may employ.
 
-#### Gathering of Personal Information
+If you follow links to view videos in [YouTube](https://www.youtube.com/), YouTube may show you ads or track your activity on their platform. Consult their policies and terms for any data collection or retention policies they may employ.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+## Personal Information You Provide
 
-#### Protection of  Personal- Information
+### Email Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+If you send an email through the contact form, the form requests a name, email address, and message. Tech Writing Talks is organized by a person who does not want your personal information. We will retain your information while we process your request, but will delete it afterward. We will never make this information available to sponsors, or share it with any third parties.
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+### Speaker Details
 
-#### Privacy Policy Changes
+If you make a pitch for a talk that we end up publishing, we publish your name and any relevant details you provide in your bio on this website (https://techwritingtalks.com). We publish your talk description, title, and your name on YouTube with your video. We post about your talk on social media channels. If you ever want us to remove any of this information, contact us through the form on this website and we will remove your details from any and all services you request.
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+### Honorarium Payment Details
+
+If we accept and publish a talk, Tech Writing Talks sends an honorarium as a token of appreciation. We send this honorarium through a mutually-agreeable third-party service, such as Venmo, PayPal, or Ko-fi. Any third-party privacy policies in place through these services will apply to the honorarium. We agree to use the payment details only to send the honorarium. We may retain details of this transaction, such as a receipt, if requested by our bookkeeper or if we are legally required to retain this information.
+
+##### Effective Date
+
+This privacy policy is effective as of June 30, 2024.
