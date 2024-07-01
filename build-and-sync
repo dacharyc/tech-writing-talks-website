@@ -1,0 +1,4 @@
+#!/bin/sh
+​
+npm run build
+rsync -avz public/ techwritingtalks.com:techwritingtalks.com/
