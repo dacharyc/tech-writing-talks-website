@@ -8,6 +8,7 @@ author: "Dachary Carey"
 tags: ["15-20 minutes", "Curious", "Junior", "Senior", "Staff", "Lead"]
 categories: ["Code", "Testing"]
 draft: false
+fediverse_account: "@dachary@dacharycarey.social"
 ---
 
 If you write documentation for a product that is, itself, code - think SDK, API, or CLI - code is an important part of your documentation!
